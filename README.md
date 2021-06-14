@@ -1,1 +1,0 @@
-# Electric-motor-diagnostics
